@@ -1,3 +1,7 @@
+#### Notice
+Added by Bitcoin Euro: Added a ForkHash setting for usage in the unified-node-open-mining-portal   
+see: https://github.com/bitcoineuro/unified-node-open-mining-portal
+
 High performance Stratum poolserver in Node.js. One instance of this software can startup and manage multiple coin
 pools, each with their own daemon and stratum ports :)
 
